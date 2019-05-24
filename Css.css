@@ -1,0 +1,34 @@
+    /* Remove the navbar's default rounded borders and increase the bottom margin */ 
+    .navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+      background-color: pink;
+    }
+    
+    /* Remove the jumbotron's default bottom margin */ 
+     .jumbotron {
+      margin-bottom: 0;
+    }
+   
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: paleturquoise;
+      padding: 25px;
+    }
+
+    header {
+      background-color: paleturquoise;
+      padding: 25px;
+    }
+
+    table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
+
+    th, td {
+    padding: 15px;
+    text-align: left;    
+    }
+
+  
